@@ -1,16 +1,11 @@
 {
   "name": "easybuy.api",
   "version": "1.0.0",
-  "description": "e-commerce application backend",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anudeepthi",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.21.2",
-    "nodemon": "^3.1.9"
-  }
+  "description": ""
 }
