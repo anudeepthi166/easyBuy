@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: rgba(20, 20, 20, 0.639);
+    color: aliceblue;
+}
+.menu{
+    background-color: rgba(20, 20, 20, 0.703);
+    color: aliceblue;
+}
+.home-carousel{
+    background-image: linear-gradient(to bottom, #b78b9d, #ffffff); /* Example gradient from purple to blue */
+    display: flex; /* Flexbox to align content properly */
+    justify-content: center;
+    align-items: center;
+}
